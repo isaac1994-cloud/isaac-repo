@@ -1,0 +1,33 @@
+DevOps:
+
+
+		DevOps is a cross-functional approach to developing software across the entire software life cycle,
+	from the coding phase through the testing and deployment process to infrastructure and operations management.
+ 	Its core principles are freedom, flexibility, agility, and transparency.
+
+		There has also been a shift in how business applications development is done,
+	from teams targeting smaller, short-term projects to those targeting long-term revenue. 
+	With DevOps teams, these opportunities have been extended in the sense that teams are not restricted to one particular part of the business;
+	 they can work on a wide variety of projects that have the potential to increase the bottom line.
+
+
+
+	The number of people who remember the days before DevOps is starting to shrink.
+ The younger generation on today’s IT and DevOps teams don’t remember the strict silos, 
+where there were clear lines around areas of responsibility such as infrastructure, operations, application design, development, testing and security.
+ 	
+	They don’t remember how this caused a lot of transition work between teams and groups. 
+They don’t know that product owners, business analysts, architects, developers, testers, release managers, system administrators and infrastructure owners had to agree and coordinate on the planning, development, testing, deploying, operating and management of a piece of software. 
+Just typing that sentence was exhausting, imagine living it.
+ When we celebrated the 10-year anniversary of DevOps in 2019, we saw the wall removed between Dev and Ops.
+ This is a reason for all of us to celebrate.
+
+
+
+	DevOps has a bright and great future. The practical apps of DevOps are growing daily.
+ Knowing the future of DevOps developers can help you boost the efficacy and quality of your mobile app development. 
+We can anticipate seeing some drastic changes in the upcoming years. So, stay ahead of the competition to enhance the efficiency of your internal operations.
+
+	
+As per Grand View Research, the size of the worldwide DevOps market is predicted to reach $12.85 billion by 2025.
+ These statistics showcase the growing acceptance of cloud technologies, high adoption of agile methodologies, and digitization of enterprises for automating business procedures.
